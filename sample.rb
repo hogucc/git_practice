@@ -1,3 +1,3 @@
-puts "b"
+puts "a"
 puts "b"
 puts "c"
